@@ -1,0 +1,22 @@
+{
+  "name": "first-frontend.io-challenge",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build-tailwindcss":"npx tailwind -i ./Tailwindcss/style.css -o ./Tailwindcss/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggbb0711/First-frontend.io-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggbb0711/First-frontend.io-challenge/issues"
+  },
+  "homepage": "https://github.com/ggbb0711/First-frontend.io-challenge#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
